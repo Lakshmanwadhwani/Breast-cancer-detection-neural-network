@@ -7,5 +7,24 @@ Lets talk about the tools i would be using for the task at hand. Keras is a neur
 This is where Google's colab come into play. It is basically a Jupyter notebook running on the cloud, free of charge and has TensorFlow pre-installed, and to boot, comes with a free GPU. Its awesome!
 
 #Data
-For my source of data i looked no further than the UCI machine learning repository. This repository maintains a wide variety of data sets under different domains all at hand for use by the machine learning community
+For my source of data i looked no further than the UCI machine learning repository. This repository maintains a wide variety of data sets under different domains all at hand for use by the machine learning community. For this project i will be using the Breast Cancer Coimbra Data Set.There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer.
+The predictors are anthropometric data and parameters which can be gathered in routine blood analysis.
+Prediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.
+
+Attribute Information:
+
+Quantitative Attributes:
+Age (years)
+BMI (kg/m2)
+Glucose (mg/dL)
+Insulin (µU/mL)
+HOMA
+Leptin (ng/mL)
+Adiponectin (µg/mL)
+Resistin (ng/mL)
+MCP-1(pg/dL)
+
+Labels:
+1=Healthy controls
+2=Patients
 
