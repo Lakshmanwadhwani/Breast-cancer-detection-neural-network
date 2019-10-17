@@ -7,5 +7,5 @@ Lets talk about the tools i would be using for the task at hand. Keras is a neur
 This is where Google's colab come into play. It is basically a Jupyter notebook running on the cloud, free of charge and has TensorFlow pre-installed, and to boot, comes with a free GPU. Its awesome!
 
 #Data
-For my source of data
+For my source of data i looked no further than the UCI machine learning repository. This repository maintains a wide variety of data sets under different domains all at hand for use by the machine learning community
 
